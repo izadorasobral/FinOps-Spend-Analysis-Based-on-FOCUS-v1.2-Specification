@@ -90,12 +90,11 @@ Key columns include:
 
 📸 **Screenshots**
 
-### Executive Summary Dashboard:
-![Executive Summary](assets/executive-summary.png)
+#### Executive Summary Dashboard  
+![Executive Summary](assets/Executive%20Summary.png)
 
-### Detailed Analysis Dashboard:
-![Detailed Analysis](assets/detailed-analysis.png)
-
+#### Detailed Analysis Dashboard  
+![Detailed Analysis](assets/Detailed%20Analysis.png)
 ---
 
 🤝 **How to Contribute**  

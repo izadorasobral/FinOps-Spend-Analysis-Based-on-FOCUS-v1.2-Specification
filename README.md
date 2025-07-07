@@ -88,6 +88,15 @@ Key columns include:
 
 ---
 
+### 📂 Sample Dataset
+
+A sample CSV file is included to support testing and exploration:  
+[`samples/focus_simulated_dataset_focus_1.2.csv`](samples/focus_simulated_dataset_focus_1.2.csv)
+
+---
+
+This file contains representative records following the FOCUS v1.2 specification, including key columns such as `InvoiceId`, `ServiceName`, `EffectiveCost`, `RegionId`, and `ChargePeriodStart`. It is ideal for validating Power BI dashboards, building pipeline prototypes, or educational purposes.
+
 📸 **Screenshots**
 
 #### Executive Summary Dashboard  
